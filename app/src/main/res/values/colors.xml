@@ -19,8 +19,8 @@
 
     <!-- General layout colours -->
     <color name="green_light">#A5D6A7</color>
-    <color name="green">#388E3C</color>
-    <color name="green_dark">#1B5E20</color>
+    <color name="green">#70419A</color>
+    <color name="green_dark">#3A2266</color>
 	<color name="grey">#757575</color>
     <color name="ledgreen">#7dbb21</color>
     <color name="red">#C62828</color>
@@ -28,13 +28,13 @@
     <!-- Torrent and file status colours -->
     <color name="torrent_downloading">#1E88E5</color>	<!-- Blue -->
     <color name="torrent_paused">#AB47BC</color>		<!-- Purple -->
-    <color name="torrent_seeding">#66BB6A</color>		<!-- Green -->
+    <color name="torrent_seeding">#70419A</color>		<!-- Green -->
     <color name="torrent_error">#C62828</color>			<!-- Red -->
     <color name="torrent_other">#757575</color>			<!-- Grey -->
     <color name="torrent_background">#BDBDBD</color>	<!-- Light grey -->
     <color name="file_low">#A5D6A7</color>				<!-- Light green -->
-    <color name="file_normal">#66BB6A</color>			<!-- Normal green -->
-    <color name="file_high">#1B5E20</color>				<!-- Dark green -->
+    <color name="file_normal">#70419A</color>			<!-- Normal green -->
+    <color name="file_high">#3A2266</color>				<!-- Dark green -->
     <color name="file_off">#757575</color>				<!-- Grey -->
 
 </resources>

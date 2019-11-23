@@ -1,33 +1,6 @@
-Transdroid
+Torrent Android
 ==========
-
-[www.transdroid.org](http://www.transdroid.org)  
-[Twitter](https://twitter.com/transdroid) - [transdroid@2312.nl](transdroid@2312.nl)
-
-"Manage your torrents from your Android device"
-
-<a href="https://transdroid.org/lastest" target="_blank">
-<img src="https://transdroid.org/images/getontransdroid.png" alt="Get it on transdroid.org" height="80"/></a>
-<a href="https://f-droid.org/repository/browse/?fdid=org.transdroid.full" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"/></a>
-<a href="https://play.google.com/store/apps/details?id=org.transdroid.lite" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80"/></a>
-
-<img src="http://2312.nl/images/screenshot_transdroid_main.png" alt="Screen shot of the main torrents listing screen" width="280" />
-
-Manage your torrents from your Android device with Transdroid. All popular clients are supported: µTorrent, Transmission, rTorrent, Vuze, Deluge, BitTorrent 6, qBittorrent and many more. You can view and manage the running torrents and individual files. Adding is easy via the integrated search, RSS feeds or the barcode scanner (full version required). Monitor progress using the home screen widget or background alarm service.
-
-Contributions
-=============
-
-Code and design contributions are very welcome. You might want to contact me via social networks (G+, Twitter) or e-mail first. Please note all code will be GNU GPL v3 licensed.
-
-Please respect the coding standards for easier merging. master contains the current release version of Transdroid while dev contains the active development version. However, larger, new features are developed in their own branch.
-
-Code structure
-==============
-
-Starting with version 2.3.0, Transdroid is developed in Android Studio, fully integrating with the Gradle build system. It is (since version 2.5.0) compiled against Android 5.1 (API level 22) and (since version 2.2.0) supporting ICS (API level 15) and up only. To support lite (Transdrone, specially for the Play Store) and full (Transdroid) versions of the app, build flavours are defined in gradle, which contain version-specific resources. Dependencies are managed via JCentral in the app's build.gradle file.
+This is a forked version of the great application [Transdroid](https://github.com/erickok/transdroid), modified and customized for personal use.  
 
 Developed By
 ============
